@@ -39,6 +39,11 @@ public class Sinhvien {
     public void output()
     {
         System.out.print("Ten: "+ten+"\nMa So: "+maso+"\nDiem: "+diem);
+        System.out.print("Ten: "+ten+"\nMa So: "+maso+"\nDiem: "+diem);
+        System.out.print("Ten: "+ten+"\nMa So: "+maso+"\nDiem: "+diem);
+        System.out.print("Ten: "+ten+"\nMa So: "+maso+"\nDiem: "+diem);
+        
+        
     }
     
     public String Xeploai(double diemtb)
