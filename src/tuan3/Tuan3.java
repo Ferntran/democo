@@ -24,6 +24,9 @@ public class Tuan3 {
         sv.input();
         sv.output();
         System.out.print("\nXep loai: " + sv.Xeploai(sv.diem));
+        System.out.print("xin chao tat ca cac ban");
+         System.out.print("xin chao tat ca cac ban");
+          System.out.print("xin chao tat ca cac ban");
     }
     
 }
